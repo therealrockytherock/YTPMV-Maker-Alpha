@@ -4,6 +4,9 @@
 
 A browser-based **YTPMV (YouTube Poop Music Video) Maker** built with HTML, CSS, and JavaScript. Create chaotic, synced music videos directly in your browser with an interface inspired by **FL Studio**.
 
+<img width="1172" height="834" alt="image" src="https://github.com/user-attachments/assets/77434ab4-15bc-49aa-8358-2c154865d383" />
+
+
 ## ✨ Features
 
 * 🎧 Upload your own audio files
