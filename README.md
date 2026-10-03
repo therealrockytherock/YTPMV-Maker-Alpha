@@ -45,3 +45,6 @@ No server or complicated setup is required for the basic version.
 The goal of this project is to make YTPMV creation easier by combining **video editing + music sequencing** into one simple browser-based tool.
 
 Have fun making some absolutely ridiculous YTPMVs. 💀🎵
+
+
+im sorry that i made this with ai i was so boredd and didnt know how to code
