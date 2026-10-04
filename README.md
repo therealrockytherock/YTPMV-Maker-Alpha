@@ -1,6 +1,6 @@
 # YTPMV-Maker-Alpha
 
-# 🎵 YTPMV Maker — FL Studio-Inspired
+# 🎵 YTPMV Maker — FL Studio-Inspired (MADE WITH AI I'M SORRY)
 
 A browser-based **YTPMV (YouTube Poop Music Video) Maker** built with HTML, CSS, and JavaScript. Create chaotic, synced music videos directly in your browser with an interface inspired by **FL Studio**.
 
